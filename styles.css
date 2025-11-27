@@ -67,5 +67,6 @@
 
 body {
   max-width: 90vw;
-  margin: 10rem auto;
+  margin: 0 auto;
+  padding-block: 5rem;
 }
